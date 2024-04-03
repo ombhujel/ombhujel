@@ -1,5 +1,5 @@
 - Hi, I’m @ombhujel, I'm currently enrolled at Queens College.
-
+- LinkedIn - https://www.linkedin.com/in/om-bhujel/
 
 <!---
 ombhujel/ombhujel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
